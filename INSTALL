@@ -33,7 +33,7 @@ To get the latest development code:
 To get the latest stable(ish) release, point your browser here:
    https://github.com/brewster76/fuzzy-archer/releases
 
-Move gaugeengine.py, gauges.py and historyengine,py into the bin/user directory if the installation was using setup.py. Using the .deb installation, add the files to the /usr/share/weewx/users directory.
+Move gaugeengine.py, gauges.py and historyengine,py into the bin/user directory if the installation was using setup.py. Using the .deb installation, add the files to the /usr/share/weewx/user directory.
 Move the Bootstrap and Images directory into the skins directory.
 
 Step 2 - Add the skins to weewx.conf
